@@ -7,7 +7,7 @@ function App() {
     backgroundColor: '#e8f4f8',
   };
 
-  const contractAddress = ""; // Ganti dengan contract address yang sebenarnya
+  const contractAddress = "9D8nyPvrAsW3PX8a3nQVnKrgehW4kbg8BASy2ovgpump"; // Ganti dengan contract address yang sebenarnya
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress)
